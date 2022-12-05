@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <cstdlib>
+//Руда Єлизавета ФІТ 1-4 В12
 
 #define N 9 //Матриця 9*9 бо тільки туди влізуть числа 1-32
 #define M (N * N + 1)/ 2 - N
